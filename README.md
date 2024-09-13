@@ -1,1 +1,3 @@
 # ECBME4040
+
+This is the repository for ECBME4040_001_2024_3 - NEURAL NETWRKS & DEEP LEARNING, Fall 2024 for DYH2111
